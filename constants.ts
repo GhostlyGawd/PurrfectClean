@@ -5,6 +5,12 @@ export const PRODUCT_NAME = "PurrfectClean Ultra";
 export const PRODUCT_PRICE = 499.00;
 export const PRODUCT_OLD_PRICE = 699.00;
 
+export const PRODUCT_IMAGES = [
+  "https://img.kwcdn.com/local-goods-image/20195053a14/cc7eb298-746d-4917-83b5-c8d6c6302f60_800x800.png?imageView2/2/w/800/q/70/format/avif",
+  "https://img.kwcdn.com/local-goods-image/2019505b774/850345a7-3715-4c73-af10-926f4aef1f89_1600x1600.jpeg.format.jpg?imageView2/2/w/800/q/70/format/avif",
+  "https://img.kwcdn.com/local-goods-image/2019505b774/473f7617-0f0e-4366-8793-76edf8a29995_1600x1600.jpeg.format.jpg?imageView2/2/w/800/q/70/format/avif"
+];
+
 export const FEATURES: ProductFeature[] = [
   {
     icon: Sparkles,
